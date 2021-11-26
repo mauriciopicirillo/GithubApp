@@ -1,2 +1,2 @@
 # GithubApp
- Criação de um aplicativo de busca no Github
+ Criação de um aplicativo de busca de usuários no Github
